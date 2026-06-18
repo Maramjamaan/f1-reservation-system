@@ -13,7 +13,7 @@ f1_races = {
         "name": "Australian Grand Prix",
         "date": "March 6-8",
         "venue": "Melbourne",
-        "price": 300,
+        "price": 900,
         "status": "Completed"
     },
     2: {
